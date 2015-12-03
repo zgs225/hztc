@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="87px" height="50px" viewBox="0 0 87 50" enable-background="new 0 0 87 50" xml:space="preserve">
+<g>
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-5.142298e-006" y1="20.7936" x2="40.2178" y2="20.7936">
+			<stop  offset="0.05" style="stop-color:#B6CC31"/>
+			<stop  offset="0.2426" style="stop-color:#9FC536"/>
+			<stop  offset="0.6813" style="stop-color:#6FB642"/>
+			<stop  offset="0.9" style="stop-color:#5DB046"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_1_)" points="5.863,3.616 5.863,16.948 0,22.812 5.863,28.675 5.863,37.971 40.218,37.971 40.218,3.616 
+					"/>
+		
+			<rect x="10.478" y="12.671" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -7.0823 13.9966)" fill="#FFFFFF" width="5.753" height="5.753"/>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="19.2384" y1="29.2412" x2="67.154" y2="29.2412">
+			<stop  offset="0.1" style="stop-color:#F3C415"/>
+			<stop  offset="0.2654" style="stop-color:#F2BB18"/>
+			<stop  offset="0.5352" style="stop-color:#F0A31F"/>
+			<stop  offset="0.8739" style="stop-color:#ED7B2A"/>
+			<stop  offset="0.9" style="stop-color:#ED782B"/>
+		</linearGradient>
+		<path fill="url(#SVGID_2_)" d="M19.238,8.482l8.193,14.22l-5.312,9.22l10.619-0.009L43.159,50L67.154,8.525L19.238,8.482z"/>
+		<polygon fill="#FFFFFF" points="34.379,23.685 30.757,17.424 37.99,17.418 		"/>
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="39.8454" y1="20.7936" x2="86.9448" y2="20.7936">
+			<stop  offset="0.1" style="stop-color:#E8473F"/>
+			<stop  offset="0.95" style="stop-color:#B30A4D"/>
+		</linearGradient>
+		<path fill="url(#SVGID_3_)" d="M66.151,0c-10.379,0-18.98,7.604-20.539,17.545c-0.259-0.042-0.523-0.069-0.794-0.069
+			c-2.746,0-4.972,2.226-4.972,4.972c0,2.746,2.226,4.972,4.972,4.972c0.538,0,1.056-0.088,1.541-0.247
+			c2.694,8.362,10.535,14.413,19.792,14.413c11.484,0,20.794-9.31,20.794-20.794S77.635,0,66.151,0z"/>
+		<circle fill="#FFFFFF" cx="55.392" cy="15.095" r="3.616"/>
+	</g>
+</g>
+</svg>

@@ -368,7 +368,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: Helvetica, Tahoma, Arial, "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   font-weight: 700;
   margin: 0px;
-  font-size: 36px
+  font-size: 42px
 }
 .slider-text-area {}
 .sub-slider-text {
@@ -382,7 +382,8 @@ h1, h2, h3, h4, h5, h6 {
 .slider-p {
   margin: 0px;
   color: #90BBC5;
-  font-size: 14px;
+  font-size: 16px;
+  line-height: 1.5;
   padding-top: 40px
 }
 .edit-button-1 {
@@ -923,4 +924,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 .teb-icon-edit i {
   font-size: 170px
+}
+
+.hhrplus-logo {
+  height: 20px;
 }
