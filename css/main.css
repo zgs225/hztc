@@ -356,7 +356,7 @@ h1, h2, h3, h4, h5, h6 {
 #slider {
   background: url(../img/slider.jpg) no-repeat;
   background-size: cover;
-  background-position: center center;
+  background-position: 47% center;
   padding-bottom: 255px;
   padding-top: 120px;
 }
@@ -379,7 +379,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .slider-p {
   margin: 0px;
-  color: #c59c89;
+  color: #c5ae2b;
   font-size: 18px;
   font-family: Helvetica, Tahoma, Arial, "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   line-height: 1.5;
