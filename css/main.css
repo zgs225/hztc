@@ -27,11 +27,13 @@ html {
  */
 
 ::-moz-selection {
-  background: #b3d4fc;
+  background: #d2000f;
+  color: #fafafa;
   text-shadow: none;
 }
 ::selection {
-  background: #b3d4fc;
+  background: #d2000f;
+  color: #fafafa;
   text-shadow: none;
 }
 
@@ -381,11 +383,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 .slider-p {
   margin: 0px;
-  color: #90BBC5;
+  color: #c59c89;
   font-size: 16px;
   line-height: 1.5;
   padding-top: 40px
 }
+
+@media only screen and (max-width: 479px) {
+  .slider-p {
+    padding-top: 24px;
+  }
+}
+
 .edit-button-1 {
   background: none;
   border: 3px solid #91B1B5;
@@ -464,7 +473,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 36px;
   font-family: Helvetica, Tahoma, Arial, "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   font-weight: 700;
-  color: #5DCA88;
+  color: #d2000f;
 }
 .contant-1-text {
   padding-top: 40px
@@ -476,6 +485,13 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   padding-bottom: 25px
 }
+
+@media only screen and (max-width: 479px) {
+  .contant-1-text h2 {
+    font-size: 28px;
+  }
+}
+
 .contant-1-text p {
   color: #ABB2B4;
   font-size: 16px;
@@ -618,7 +634,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 36px;
   font-family: Helvetica, Tahoma, Arial, "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   font-weight: 700;
-  color: #5DCA88;
+  color: #d2000f;
 }
 .contant-2-text {
   padding-top: 40px
@@ -630,6 +646,13 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   padding-bottom: 25px
 }
+
+@media only screen and (max-width: 479px) {
+  .contant-2-text h2 {
+    font-size: 28px;
+  }
+}
+
 .contant-2-text p {
   color: #ABB2B4;
   font-size: 16px;
@@ -711,7 +734,7 @@ h1, h2, h3, h4, h5, h6 {
 .tm-text p span {
   font-style: normal;
   display: block;
-  color: #5DCA88;
+  color: #333;
   font-family: Helvetica, Tahoma, Arial, "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   font-weight: 400;
   padding-top: 28px
@@ -729,7 +752,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 11px;
 }
 #testimonial .owl-carousel .owl-controls .owl-pagination div.active {
-  background: #5DCA88
+  background: #d2000f
 }
 
 /*=========================
@@ -789,7 +812,7 @@ h1, h2, h3, h4, h5, h6 {
 .submit-bottom form input[type=submit] {
   border: none;
   padding: 21px 55px;
-  background: #5DCA88;
+  background: #d2000f;
   color: #fff;
   font-size: 20px;
   font-family: Helvetica, Tahoma, Arial, "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
@@ -886,11 +909,11 @@ h1, h2, h3, h4, h5, h6 {
   top: 10px;
 }
 #service .service-tab ul li a:hover {
-  border-right: 10px solid #5DCA88;
+  border-right: 10px solid #d2000f;
   padding-right: 50px
 }
 #service .service-tab ul li a:hover i {
-  color: #5DCA88
+  color: #d2000f
 }
 .edit-tab {
   overflow: hidden;
@@ -920,7 +943,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 170px;
   width: 170px;
   margin: 0 auto;
-  color: #5DCA88;
+  color: #d2000f;
 }
 .teb-icon-edit i {
   font-size: 170px
