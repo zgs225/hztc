@@ -939,6 +939,7 @@ hr {
 }
 #intro-quotemark svg {
   width: 60px;
+  height: 45px;
 }
 #intro-quotemark svg .path {
   fill: #ccc;
